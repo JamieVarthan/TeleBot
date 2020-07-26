@@ -34,10 +34,10 @@ async def _(event):
                f"{DEFAULTUSER}.\n"
                "__Please let me know why you are here.__\n\n"
                "**Please send the number corresponding to your option: **\n\n"
-               "`1`. To chat with my master\n"
-               "`2`. To spam my master's inbox.\n"
-               "`3`. For help in setting up TeleBot\n"
-               "`4`. To request something\n")
+               "`1`. To Share INFO about New Partnership Recquiremetns\n"
+               "`2`. To Request something (Information).\n"
+               "`3`. To Ask About Airdrop Round 1\n"
+               "`4`. To Help Coinsto in all ways as you can\n")
          ONE = ("__Okay. your request has been registered. Please do not spam here. You will get a reply as soon as I see this message (if you are worthy)__\n\n"
                 "**⚠️ You will be blocked and reported if you spam here. ⚠️**\n\n"
                 "__Use__ `/start` __to go back to the main menu.__")
