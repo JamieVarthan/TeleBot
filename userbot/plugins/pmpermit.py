@@ -15,7 +15,7 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "**No name set yet, check pinne
 USER_BOT_WARN_ZERO = "`You were spamming my master's inbox, henceforth your retarded lame ass has been blocked by my master's userbot.` **Now GTFO, i'm playing PUBG** "
 USER_BOT_NO_WARN = ("[...........███ ]▄▄▄▄▄▃ \n..▂▄▅█████▅▄▃▂\n[███████████████]\n◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤](tg://user?id=719195224)\n\n"
                     "Hello, this is TeleBot Security Service. This is an automated message in "
-                    f"{DEFAULTUSER}'s inbox. Please don't spam and wait for me to respond.\n\n"
+                    f"{DEFAULTUSER}'s inbox. Please don't spam but wait for me to respond.\n\n"
                     f"{MESAG}"
                     "\n\n ** Send** `/start` ** to see available options.**")
 
