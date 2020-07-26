@@ -27,12 +27,12 @@ async def amireallyalive(alive):
         sticker.name = "sticker.webp"
         sticker.seek(0)
         await borg.send_message(alive.chat_id, f"**Welcome To TeleBot **\n\n"
-            "**`Hey! I'm alive. All systems online and functioning normally!`**\n\n"
+            "**`Hey! I'm Spade Security System !!. All systems online and functioning normally!`**\n\n"
             "` 🔸 Telethon version:` **1.15.0**\n` 🔹 Python:` **3.8.3**\n"
-            "` 🔸 More info:` [TeleBot](https://telegra.ph/TeleBot-07-08)\n"
-            "` 🔹 Bot created by:` [Aditya](https://t.me/xditya)\n"
-            "` 🔸 Database Status:` **All OK 👌!**\n"
+            "` 🔸 More info:` No More INFO , Write your Own Script!!\n"
+            "` 🔹 Bot created by:` [Spade](https://t.me/spade_csoadmin)\n"
+            "` 🔸 Database Status:` **Nothing is Running!**\n"
             f"` 🔹 My pro owner`: {DEFAULTUSER}\n\n"
-            "    [✨ GitHub Repository ✨](https://github.com/xditya/TeleBot)", link_preview = False)
+            "    [✨ Private Bot Service , If needed contact My Owner ✨](https://t.me/spade_csoadmim)", link_preview = False)
         await borg.send_file(alive.chat_id, file=sticker) 
         await alive.delete()
